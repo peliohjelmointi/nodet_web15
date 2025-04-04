@@ -1,0 +1,10 @@
+Luo luokka Auto, ja 
+luo sille konstruktori,
+joka saa parametriksi auton merkin,mallin ja vuosimallin.
+
+Luo Autosta olio toisessa tiedostossa
+(Auto-luokka pitää siis exportata (module.exports))
+
+Oliota luodessa, määritä merkki,malli ja vuosimallin
+
+Luo autolle metodi, joka tulostaa merkin,mallin ja vuosimallin
