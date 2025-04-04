@@ -1,7 +1,4 @@
 class Person {
-    // constructor(){
-    //     console.log("constructor w/o params called")
-    // }
     constructor(name, age){
         this.name = name
         this.age = age      
