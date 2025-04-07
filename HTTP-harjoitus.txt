@@ -1,0 +1,8 @@
+Luo kansio html projektisi juureen.
+
+Käytä path.joinia index.html-sivun hakuun, jotta voit 
+asettaa sen muuttujaan nimeltään filename.
+
+Kun käyttäjä menee localhost:3000/ -end pointtiin,
+tulisi näkyä index.html -sivun sisältö
+

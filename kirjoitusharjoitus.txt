@@ -1,0 +1,7 @@
+Käytä sekä fs.writeFile
+että fs.writeFileSync 
+
+Tee näistä omat funktiot,
+ja kirjoita jotain tekstiä haluamaasi tiedostoon.
+
+Kutsu funktioita.
